@@ -9,7 +9,7 @@ function initMap() {
         center: myLatLng
     });
 
-    var contentString = '<p>HelloWorld</p>';
+    var contentString = '<p>This is where i hid the cookies.</p>';
 
     var infowindow = new google.maps.InfoWindow({content: contentString});
 
